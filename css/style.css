@@ -50,7 +50,7 @@ a:hover{
   width: inherit;
   margin-top: 60px;
   height: 100vh;
-  background: #b9e5f7 url('../img/home.jpg')
+  background: #8FD2CE url('../img/home.jpg')
     no-repeat center center;
     -webkit-background-size: cover; /* For WebKit*/
     -moz-background-size: cover;    /* Mozilla*/
